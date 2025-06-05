@@ -44,4 +44,4 @@ Public Amazon Prime content dataset from kaggle, featuring metadata like title, 
   - Description
 
 👀 **Check out the visuals** and interact with the data like never before!
-
+https://github.com/rirusprof/Amazon-Prime-Dashboard/blob/main/amazon%20prime%20snapshot.png
