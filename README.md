@@ -1,5 +1,4 @@
-# Amazon-Prime-Dashboard
-Sure! Here's a **more interactive, engaging, and reader-friendly version** of your GitHub project description for the Amazon Prime Dashboard (Power BI):
+
 
 
  🎬📊 Amazon Prime Dashboard – Power BI Project
